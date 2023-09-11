@@ -2,7 +2,8 @@ Hi 👋, I'm Mandar Salunkhe
 Aspiring Data Analytics with an experience in the Manufacturing industry. Skilled in Microsoft Excel, Python, Machine learning algorithms, SQL query.
 
 📫 How to reach me:  mandar.salunkhe@hotmail.com, 
-                      https://www.linkedin.com/in/mandarusalunkhe/
+
+LinkedIN: https://www.linkedin.com/in/mandarusalunkhe/
 
 <!---
 MandarSalunkhe89/MandarSalunkhe89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
